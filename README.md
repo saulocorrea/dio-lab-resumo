@@ -1,2 +1,6 @@
 # dio-lab-resumo
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Este repositório compila as lições extraídas do desenvolvimento do laboratório na DIO.
+
+No laboratório introdutório ao portal do Azure, Valeria elucida a interface do portal e destaca diversos aspectos relevantes. Um ponto digno de nota é que a interface se mantém idêntica para contas gratuitas e empresariais em nível global. O conhecimento adquirido neste portal permite que atuemos em corporações de grande porte sem lacunas de aprendizado ou necessidade de adaptação.
+
+Valeria também abordou a questão da responsabilidade, que recai tanto sobre a Microsoft quanto sobre nós, profissionais, delineando a repartição das responsabilidades. Essa temática permeia todas as soluções do Azure, sendo imprescindível que o profissional avalie a estrutura a ser implementada, uma vez que a abordagem varia conforme cada situação. No caso de a empresa utilizar serviços de infraestrutura do Azure, o profissional deve possuir conhecimentos em redes e configuração, além de estabelecer um orçamento fundamentado na previsão de uso dos recursos disponíveis. A gestão de custos representa, assim, uma responsabilidade significativa, dado que as empresas almejam maximizar o retorno financeiro.
